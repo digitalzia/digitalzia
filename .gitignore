@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+uploads/*.pdf
+uploads/*.doc
+uploads/*.docx
+uploads/*.txt
+!uploads/.gitkeep
+
+# Temporary files
+/tmp/
+*.tmp
+*.log
+
+# Old files
+README_OLD.md
