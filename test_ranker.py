@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Test script for Resume Ranker AI System
+Test script for Resume Ranker AI System By Zia
 Validates all 5 factors and classification labels
 """
 import sys
