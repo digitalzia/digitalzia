@@ -1,11 +1,3 @@
-👋 Hi, I'm Zia Khattak!
+👋 Ciao, I'm Zia Khattak, a Cloud & Network engineer passionate about cloud infrastructure, network engineering, and software development. I'm interested in Microsoft Azure, cloud architecture, enterprise networking, network security, Fortinet, Linux, infrastructure automation, DevOps, and Python scripting. I enjoy exploring new technologies, building practical solutions, and continuously expanding my technical expertise. 
 
-☁️ Passionate about Cloud Computing, Cloud Infrastructure, and Network Engineering.
-
-🌱 Currently exploring Azure, Networking, Infrastructure Automation, and Software Development.
-
-💻 Interested in Coding, DevOps, Cybersecurity, and building scalable cloud solutions.
-
-🤝 Always open to collaborating on Cloud, Networking, Infrastructure, and Open-Source projects.
-
-🚀 Let's connect, share knowledge, and build something meaningful together!
+I'm always open to knowledge sharing, technical discussions, and collaborating on interesting cloud, networking, and software engineering projects. Let's connect and build something meaningful, cheers!
